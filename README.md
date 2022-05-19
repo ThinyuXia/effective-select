@@ -1,3 +1,2 @@
-# effective-select
-1.学习redis原理
-2.学习java多线程编程
+# 高性能分析型查询设计与实现
+### 1.基本需求实现ing
